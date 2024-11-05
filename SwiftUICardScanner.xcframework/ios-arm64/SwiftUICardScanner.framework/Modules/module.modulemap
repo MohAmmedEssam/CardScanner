@@ -1,0 +1,6 @@
+framework module SwiftUICardScanner {
+  umbrella header "SwiftUICardScanner.h"
+  export *
+
+  module * { export * }
+}

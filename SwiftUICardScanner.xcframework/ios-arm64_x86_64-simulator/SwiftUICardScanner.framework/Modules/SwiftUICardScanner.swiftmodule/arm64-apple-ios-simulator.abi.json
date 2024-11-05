@@ -1,0 +1,789 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Accelerate",
+        "printedName": "Accelerate",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Accelerate",
+        "printedName": "Accelerate",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreMedia",
+        "printedName": "CoreMedia",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CardScannerView",
+        "printedName": "CardScannerView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(flashOn:labelFont:labelForegroundColor:cardSquareWidth:cardSquareHeight:onPermissionError:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CardScannerView",
+                "printedName": "SwiftUICardScanner.CardScannerView",
+                "usr": "s:18SwiftUICardScanner04CardC4ViewV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Binding",
+                "printedName": "SwiftUI.Binding<Swift.Bool>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:7SwiftUI7BindingV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Font",
+                "printedName": "SwiftUI.Font",
+                "hasDefaultArg": true,
+                "usr": "s:7SwiftUI4FontV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Color",
+                "printedName": "SwiftUI.Color",
+                "hasDefaultArg": true,
+                "usr": "s:7SwiftUI5ColorV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "hasDefaultArg": true
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18SwiftUICardScanner04CardC4ViewV7flashOn9labelFont0H15ForegroundColor15cardSquareWidth0lM6Height17onPermissionError_AC0A2UI7BindingVySbG_AJ0I0VAJ0K0V14CoreFoundation7CGFloatVATyycySSctcfc",
+            "mangledName": "$s18SwiftUICardScanner04CardC4ViewV7flashOn9labelFont0H15ForegroundColor15cardSquareWidth0lM6Height17onPermissionError_AC0A2UI7BindingVySbG_AJ0I0VAJ0K0V12CoreGraphics7CGFloatVATyycySSctcfc",
+            "moduleName": "SwiftUICardScanner",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SwiftUICardScanner04CardC4ViewV4bodyQrvp",
+            "mangledName": "$s18SwiftUICardScanner04CardC4ViewV4bodyQrvp",
+            "moduleName": "SwiftUICardScanner",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SwiftUICardScanner04CardC4ViewV4bodyQrvg",
+                "mangledName": "$s18SwiftUICardScanner04CardC4ViewV4bodyQrvg",
+                "moduleName": "SwiftUICardScanner",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:18SwiftUICardScanner04CardC4ViewV",
+        "mangledName": "$s18SwiftUICardScanner04CardC4ViewV",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "SwiftUICardScanner",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1180,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1194,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1241,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1256,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2041,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 2230,
+      "length": 16,
+      "value": "\"videoDataQueue\""
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "Array",
+      "offset": 2281,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2424,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2742,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 960,
+      "length": 20,
+      "value": "\"SwiftUICardScanner.CameraViewController\""
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrDDUtils.swift",
+      "kind": "FloatLiteral",
+      "offset": 164,
+      "length": 3,
+      "value": "1.2"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 203,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 594,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 637,
+      "length": 2,
+      "value": "38"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 745,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 790,
+      "length": 2,
+      "value": "19"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 953,
+      "length": 2,
+      "value": "31"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 991,
+      "length": 2,
+      "value": "31"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1162,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1202,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1366,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1678,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1894,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1933,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1972,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "FloatLiteral",
+      "offset": 5478,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/OcrPriorsGen.swift",
+      "kind": "FloatLiteral",
+      "offset": 5501,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Domain\/Entities\/Boxes.swift",
+      "kind": "Array",
+      "offset": 168,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "FloatLiteral",
+      "offset": 128,
+      "length": 4,
+      "value": "0.45"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "FloatLiteral",
+      "offset": 174,
+      "length": 4,
+      "value": "0.39"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "FloatLiteral",
+      "offset": 217,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "FloatLiteral",
+      "offset": 261,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "FloatLiteral",
+      "offset": 303,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 339,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 366,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/ViewModel\/Predictor.swift",
+      "kind": "Array",
+      "offset": 415,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CardScannerView.swift",
+      "kind": "StringLiteral",
+      "offset": 240,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CardScannerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 286,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CardScannerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 657,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CardScannerView.swift",
+      "kind": "FloatLiteral",
+      "offset": 810,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/mohammedessam\/Desktop\/SwiftUICardScanner\/SwiftUICardScanner\/Presentation\/View\/CardScannerView.swift",
+      "kind": "FloatLiteral",
+      "offset": 882,
+      "length": 4,
+      "value": "0.45"
+    }
+  ]
+}
