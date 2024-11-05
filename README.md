@@ -1,6 +1,16 @@
 ## SwiftUICardScanner
 SwiftUICardScanner is a lightweight Swift library for scanning credit cards numbers, making it easier to handle cards scanning in your app.
 
+## Install
+```shell
+pod install SwiftUICardScanner
+```
+or add to your Podfile
+
+```shell
+pod 'SwiftUICardScanner'
+```
+
 ## Features
 1. Based on ML improve efficiency.
 2. Easily integrate with any SwiftUI app.
